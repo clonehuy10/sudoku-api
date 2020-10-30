@@ -33,7 +33,7 @@ You can find the appication using this api in the link below:
 All data returned from API actions is formatted as JSON.
 
 ## ERD
-![ERD](https://i.imgur.com/CPe1Irp.png)
+![ERD](https://media.git.generalassemb.ly/user/30416/files/695cfd80-1834-11eb-8ab6-150d84092784)
 
 ## Development process
 This is a simple api to store game data as an array and it current state. It was set up easily in 15 minutes with GA template.
