@@ -5,7 +5,7 @@ An API to store game data. It allows people to register as users of the API and 
 The API allows users to get, create, update, or delete their games.
 
 ## API URL
-[](https://sei-sudoku-api.herokuapp.com)
+[https://sei-sudoku-api.herokuapp.com](https://sei-sudoku-api.herokuapp.com)
 
 ## Demo
 You can find the appication using this api in the link below:
